@@ -1,0 +1,17 @@
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfo.cs
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.exe
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.deps.json
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.json
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.dev.json
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.genruntimeconfig.cache
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\FakeItEasy.dll
+C:\Users\atpcy\Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.CopyComplete
